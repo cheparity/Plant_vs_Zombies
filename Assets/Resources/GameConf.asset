@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff932d7f2e1018499ceec04e0284775, type: 3}
+  m_Name: GameConf
+  m_EditorClassIdentifier: 
+  Sun: {fileID: 8443602294008670648, guid: c96f292d15626ce44b08fbb327997b24, type: 3}
+  SunFlower: {fileID: 8764353377765974448, guid: 46f59657c05cb0e498b623ab10721bac, type: 3}
+  PeaShooter: {fileID: 8608976304790490623, guid: 8911cfef6d2912645a18e1803daeee1f, type: 3}
+  WallNut: {fileID: 6571219085766538617, guid: 27fb74ce5a46e1d4eb158f84402bb641, type: 3}
+  Spikeweed: {fileID: 1731531332891806733, guid: 9816ee86dd75e3643b7c07985a1159b7, type: 3}
+  Cherry: {fileID: 5887405043859870535, guid: ad88c4bc94424594f9131560229dec05, type: 3}
+  BulletHit: {fileID: 21300000, guid: 872c6bd918b1246408971b9b325ebcc6, type: 3}
+  Bullet1: {fileID: 8824498563662215360, guid: fb10984ffd7370144bb3459a853e5bee, type: 3}
+  Zombie_head: {fileID: 5244867551548262510, guid: 2b9c9451ea8f6434daf9604bd0d914a3, type: 3}
+  Zombie_DeadBody: {fileID: 3670631967857308913, guid: 42eb7abd3884d704f973a9b5f5e2776f, type: 3}
+  Zombie: {fileID: 3208737196703053068, guid: 2d221586ec866b74b82461d2c65ff56d, type: 3}
